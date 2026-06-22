@@ -1,0 +1,6 @@
+Metric,Fixed-Time,Adaptive
+Pedestrian Wait (s),42,25
+Vehicle Delay (s),55,40
+Throughput,120,145
+Queue Length,30,18
+Fairness Index,0.62,0.81
